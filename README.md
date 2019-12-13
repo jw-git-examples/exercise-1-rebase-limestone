@@ -23,3 +23,15 @@ Features
 - precise lightness relationships calculated using CIE Lab colorspace
 - parameterized: adjust foreground, background or contrast
   and generate all other shades from that
+
+
+Theme builder usage
+-------------------
+
+First install dependencies:
+
+    pip3 install --user -r requirements.txt
+
+Building a palette:
+
+    python3 build_palette.py
