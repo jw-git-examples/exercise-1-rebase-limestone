@@ -1,8 +1,9 @@
 from __future__ import division
 
+# average JetBrains, VScode and Sublime bg lightness; moderate contrast
 name = "Limestone monochrome"
-background = (20, 0, 0)
-foreground = (80, 0, 0)
+background = (15, 0, 0)
+foreground = (75, 0, 0)
 shades = {
     "bg_1":  1/10,
     "bg_2":  1/4,
