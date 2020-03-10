@@ -38,4 +38,4 @@ Building a palette:
 
 Generating a config file from a template:
 
-    python3 build_theme.py
+    python3 build_theme.py vscode-template.json.j2
