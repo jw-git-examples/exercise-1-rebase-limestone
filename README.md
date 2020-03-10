@@ -35,3 +35,7 @@ First install dependencies:
 Building a palette:
 
     python3 build_palette.py
+
+Generating a config file from a template:
+
+    python3 build_theme.py
